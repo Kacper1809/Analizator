@@ -1,0 +1,9 @@
+Analizator przebiegu prądu i napięcia w zasilaczach
+
+Program tworzy bazę danych do której możemy dodać plik masterdata
+przechowujący dane urządzenia oraz plik z przebiegami prądu i napięcia w czasie.
+Po wpisaniu nr seryjnego danego urządzenia (12345 / 54321 / 51361) i kliknięciu
+przycisku submit, program pokaże przebiegi, które możemy przełączać za pomocą 
+przycisków voltage i current. Program także tworzy trigger, który zapisuje
+datę dodania rekordu do masterdaty.
+
